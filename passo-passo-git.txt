@@ -1,0 +1,5 @@
+1- criar uma branch(isso serve para criar um repositoiro somente seu, dentro de um repositorio)
+    comando: git checkout -b gustavo
+
+2 - adicionar as modificacoes na minha branch 
+    comando: git add .
