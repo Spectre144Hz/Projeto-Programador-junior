@@ -3,3 +3,12 @@
 
 2 - adicionar as modificacoes na minha branch 
     comando: git add .
+
+3 - verifica oq esta na sua branch(aidcionad)
+    comando: git status
+
+4 - mensagem referente ao que eh minha alteracao
+    comando: git commit -m "mensagem"
+
+5 - enviar o arquivo modificado
+    comando: git push origin gustavo
